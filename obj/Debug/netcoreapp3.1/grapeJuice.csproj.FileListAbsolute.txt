@@ -1,0 +1,13 @@
+C:\workspace\Projects\grape-juice\bin\Debug\netcoreapp3.1\grapeJuice.exe
+C:\workspace\Projects\grape-juice\bin\Debug\netcoreapp3.1\grapeJuice.deps.json
+C:\workspace\Projects\grape-juice\bin\Debug\netcoreapp3.1\grapeJuice.runtimeconfig.json
+C:\workspace\Projects\grape-juice\bin\Debug\netcoreapp3.1\grapeJuice.runtimeconfig.dev.json
+C:\workspace\Projects\grape-juice\bin\Debug\netcoreapp3.1\grapeJuice.dll
+C:\workspace\Projects\grape-juice\bin\Debug\netcoreapp3.1\grapeJuice.pdb
+C:\workspace\Projects\grape-juice\obj\Debug\netcoreapp3.1\grapeJuice.csprojAssemblyReference.cache
+C:\workspace\Projects\grape-juice\obj\Debug\netcoreapp3.1\grapeJuice.AssemblyInfoInputs.cache
+C:\workspace\Projects\grape-juice\obj\Debug\netcoreapp3.1\grapeJuice.AssemblyInfo.cs
+C:\workspace\Projects\grape-juice\obj\Debug\netcoreapp3.1\grapeJuice.csproj.CoreCompileInputs.cache
+C:\workspace\Projects\grape-juice\obj\Debug\netcoreapp3.1\grapeJuice.dll
+C:\workspace\Projects\grape-juice\obj\Debug\netcoreapp3.1\grapeJuice.pdb
+C:\workspace\Projects\grape-juice\obj\Debug\netcoreapp3.1\grapeJuice.genruntimeconfig.cache

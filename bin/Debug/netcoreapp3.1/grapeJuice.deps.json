@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "grapeJuice/1.0.0": {
+        "runtime": {
+          "grapeJuice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "grapeJuice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
