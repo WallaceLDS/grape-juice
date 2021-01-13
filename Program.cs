@@ -6,7 +6,10 @@ namespace grapeJuice
     {
         static void Main(string[] args)
         {
-            
+            Personagem p1 = new Personagem(5,1,1,1);
+            Personagem p2 = new Personagem(3,2,1,2);
+            Console.WriteLine($"Vida do personagem 1= {p1.GEThp()}");
+            Console.WriteLine($"Vida do personagem 2= {p2.GEThp()}");
         }
     }
 }
