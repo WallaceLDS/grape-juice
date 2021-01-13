@@ -18,7 +18,12 @@ namespace grapeJuice
             _def = def;
             _evs= evs;
             }
-
+            public Personagem(){
+                _hp= 3;
+                _atk=1;
+                _def=1;
+                _evs=1;
+            }
             //GET
             public int GEThp(){
                 return _hp;            
@@ -32,10 +37,10 @@ namespace grapeJuice
             public int GETevs(){
                 return _evs;            
             }
+            //SET
+            public int SEThp(int dmg){
+                return _hp -= dmg;
+            }
 
-                
-
-
-        
     }
 }
