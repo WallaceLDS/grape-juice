@@ -15,5 +15,11 @@ namespace grapeJuice
             Console.WriteLine($"Vida do personagem 1= {p1.GEThp()}");
             Console.WriteLine($"Vida do personagem 2= {p2.GEThp()}");
         }
+
+        // Função do dado, returna um numero aleatorio de 1 a 6
+        private int Dado(){
+            Random rnd = new Random();
+            return rnd.Next(1,6);  
+        }
     }
 }
