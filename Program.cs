@@ -40,7 +40,7 @@ namespace grapeJuice
             Console.WriteLine($"3-Evasiva");
             string[] escolha = Console.ReadLine().Split(" ");
             int _op = int.Parse(escolha[0]);
-            Combat(_op,p2,p1);
+            int resposta =Combat(_op,p2,p1);
             Console.WriteLine($"-----------------------------------------");
             /* 
                P1   |  P2
