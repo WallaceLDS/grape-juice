@@ -12,11 +12,11 @@ namespace grapeJuice
             int _evs;
 
             //CONSTRUCT
-            public Personagem(){
-            _hp = 0;
-            _atk = 0;
-            _def = 0;
-            _evs= 0;
+            public Personagem(int hp, int atk, int def, int evs){
+            _hp = hp;
+            _atk = atk;
+            _def = def;
+            _evs= evs;
             }
 
             //GET
